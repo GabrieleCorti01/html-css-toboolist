@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+}
+
+#scrittalogo{
+    display: inline-block;
+}
+
+#containermain{
+    border: 2px solid black;
+    width: 70%;
+    height: 700px;
+    margin: auto;
+}
+
+#topbutton{
+    padding: 25px;
+}
+
+.button{
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.addtask{
+    background-color: rgb(66, 183, 255);
+    color: white;
+}
+
+.addsection{
+    color: grey;
+    border: 1px solid grey
+}
+
+.containerlist{
+    padding: 50px;
+}
+
+.ullist{
+    list-style-type: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+
+.rowpadding{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.iconcheck{
+    border: 1px solid rgb(36, 187, 6);
+    color: rgb(36, 187, 6);
+    border-radius: 50%;
+    padding: 3px;
+    font-size: 10px;
+}
+
+.iconcross{
+    border: 1px solid rgb(212, 11, 11);
+    color: rgb(212, 11, 11);
+    border-radius: 50%;
+    padding: 3px;
+    font-size: 10px;
+}
+
+.tag{
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 10px;
+}
+
+
+
+
